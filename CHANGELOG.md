@@ -1,4 +1,4 @@
-## 0.0.1 - Initial Release
+## 1.0.0 - Initial Release
 
 * Added basic functionality to convert English text to Morse code.
 * Added basic functionality to convert Morse code back to English text.
