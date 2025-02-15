@@ -1,5 +1,5 @@
 name: morse_code_generator
-description: A Flutter package to convert between English and Morse code
+description: A Flutter package for converting text between English and Morse code, supporting real-time translation, custom patterns, and educational use cases for learners and developers.F
 version: 1.0.0
 homepage: https://github.com/Suneel-DK/morse_code_generator
 
